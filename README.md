@@ -13,7 +13,7 @@ This extension keeps track of the estimated carbon emitted (based on averages) w
 <sup>1</sup> Average carbon emissions per page view according to [Website Carbon Calculator](https://www.websitecarbon.com/) as of March 24, 2021.
 
 
-## Acknowledgement
+## Acknowledgment
 
 This extension was inspired when [Dryden Williams](https://www.drydenwilliams.co.uk/) recently posed the following 2 questions to the [ClimateAction.tech](https://climateaction.tech/) community.
 
