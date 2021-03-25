@@ -1,7 +1,7 @@
 {
   "name": "Carbon Meter",
   "description": "Track carbon emissions resulting from your daily web browsing.",
-  "version": "0.1",
+  "version": "0.1.1",
   "manifest_version": 2,
   "background": {
     "scripts": [ "js/background.js" ]
