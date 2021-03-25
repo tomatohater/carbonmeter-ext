@@ -1,6 +1,6 @@
 <img src="src/img/icon-128x128.png" alt="Carbon Meter logo">
 
-# Carbon Meter (browser extension)
+# Carbon Meter (web browser extension)
 
 *Track carbon emissions resulting from your daily web browsing.*
 
@@ -13,10 +13,10 @@ This extension keeps track of the estimated carbon emitted (based on averages) w
 <sup>1</sup> Average carbon emissions per page view according to [Website Carbon Calculator](https://www.websitecarbon.com/) as of March 24, 2021.
 
 
-### Acknowledgement
+## Acknowledgement
 
-This extension was inspired when Dryden Williams recently posed the following 2 questions to the [ClimateAction.tech](https://climateaction.tech/) community.
+This extension was inspired when [Dryden Williams](https://www.drydenwilliams.co.uk/) recently posed the following 2 questions to the [ClimateAction.tech](https://climateaction.tech/) community.
 
 > How many web pages do I visit per day?
-
+>
 > And how much CO2 per year this accounts for? (it's in tonnes)
