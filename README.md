@@ -19,7 +19,7 @@ Once installed and running for a bit, it looks like this:
 
 ## Local installation
 
-This extension has been submitted to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) and is currently under review. You can still install the extension in Developer mode by pulling down this code repo and installing `src` directory as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
+This extension has been submitted to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) and is currently under review. You can still test the extension in Developer mode by pulling down this code repo and installing the `src` directory as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
 
 
 ## Acknowledgment
