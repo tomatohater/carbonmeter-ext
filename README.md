@@ -17,6 +17,11 @@ Once installed and running for a bit, it looks like this:
 <img src="assets/carbonmeter-screen.png" alt="Carbon Meter screenshot">
 
 
+## Local installation
+
+This extension has been submitted to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) and is currently under review. You can still install the extension in Developer mode by pulling down this code repo and installing `src` directory as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
+
+
 ## Acknowledgment
 
 This extension was inspired when [Dryden Williams](https://www.drydenwilliams.co.uk/) recently posed the following 2 questions to the [ClimateAction.tech](https://climateaction.tech/) community.
