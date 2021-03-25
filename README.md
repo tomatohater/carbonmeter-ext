@@ -12,6 +12,9 @@ This extension keeps track of the estimated carbon emitted (based on averages) w
 
 <sup>1</sup> Average carbon emissions per page view according to [Website Carbon Calculator](https://www.websitecarbon.com/) as of March 24, 2021.
 
+Once installed and running for a bit, it looks like this:
+<img src="assets/carbonmeter-screen.png" alt="Carbon Meter screenshot">
+
 
 ## Acknowledgment
 
